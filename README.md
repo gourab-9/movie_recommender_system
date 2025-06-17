@@ -47,7 +47,7 @@ streamlit
 ```bash
 # 1. Clone the repository
 ```
-[git clone https://github.com/yourusername/movie-recommender.git
+[git clone https://github.com/gourab-9/movie-recommender.git
 ](https://github.com/gourab-9/movie_recommender_system)
 ```
 cd movie-recommender
